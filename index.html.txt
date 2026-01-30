@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ittehad RCC Pipe Factory | ASTM & BS Standard Pipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container header-flex">
+        <img src="images/logo-placeholder.png" alt="Ittehad RCC Pipe Factory Logo" class="logo">
+        <div>
+            <h1>Ittehad RCC Pipe Factory</h1>
+            <p>Tarnol, Islamabad – Pakistan</p>
+        </div>
+    </div>
+</header>
+
+<nav>
+    <ul class="container">
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#standards">Standards</a></li>
+        <li><a href="#testing">Testing Facility</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero">
+    <div class="container">
+        <h2>Manufacturer of RCC Pipes</h2>
+        <p>ASTM C-76 & BS 5911 Standard | Classes II, III & IV</p>
+        <p class="highlight">Prices are shared on order placement only</p>
+    </div>
+</section>
+
+<section id="about" class="container section">
+    <h2>About Us</h2>
+    <p>
+        Ittehad RCC Pipe Factory is located in Tarnol, Islamabad, Pakistan. 
+        We specialize in manufacturing high-quality Reinforced Cement Concrete (RCC) pipes 
+        for infrastructure, sewerage, drainage, and culvert projects across Pakistan.
+    </p>
+    <p><strong>CEO:</strong> Iftikhar Ahmad</p>
+</section>
+
+<section id="products" class="container section">
+    <h2>RCC Pipe Sizes</h2>
+    <img src="images/pipes-placeholder.jpg" alt="RCC Pipes" class="section-img">
+
+    <ul class="sizes">
+        <li>6"</li>
+        <li>9"</li>
+        <li>12"</li>
+        <li>15"</li>
+        <li>18"</li>
+        <li>21"</li>
+        <li>24"</li>
+        <li>27"</li>
+        <li>30"</li>
+        <li>33"</li>
+        <li>36"</li>
+        <li>42"</li>
+        <li>48"</li>
+        <li>54"</li>
+        <li>60"</li>
+        <li>66"</li>
+        <li>72"</li>
+    </ul>
+</section>
+
+<section id="standards" class="container section">
+    <h2>Manufacturing Standards</h2>
+
+    <h3>ASTM C-76</h3>
+    <p>
+        Pipe sizes from <strong>12" to 72"</strong> are manufactured according to 
+        ASTM C-76 specifications, including:
+    </p>
+    <ul>
+        <li>Classes: II, III & IV</li>
+        <li>Wall Type: Wall B</li>
+    </ul>
+
+    <h3>BS 5911</h3>
+    <p>
+        Pipe sizes from <strong>6", 9", and 12"</strong> are also manufactured 
+        according to BS 5911 standards.
+    </p>
+
+    <h3>Pipe Lengths</h3>
+    <ul>
+        <li>8 feet</li>
+        <li>6 feet</li>
+        <li>9 feet</li>
+    </ul>
+</section>
+
+<section id="testing" class="container section">
+    <h2>Testing Facility</h2>
+    <img src="images/factory-placeholder.jpg" alt="Factory Testing Facility" class="section-img">
+    <p>
+        Our factory is equipped with a <strong>3-Edge Bearing Test Bench Facility</strong> 
+        to ensure strength, durability, and compliance with international standards.
+    </p>
+</section>
+
+<section id="contact" class="container section contact">
+    <h2>Contact Us</h2>
+
+    <p><strong>Factory Location:</strong> Tarnol, Islamabad, Pakistan</p>
+    <p><strong>CEO:</strong> Iftikhar Ahmad</p>
+
+    <p>
+        <strong>WhatsApp:</strong> 
+        <a href="https://wa.me/923016617604" target="_blank">+92 301 6617604</a>
+    </p>
+
+    <p>
+        <strong>Phone:</strong> 
+        <a href="tel:+923026440046">+92 302 6440046</a>
+    </p>
+
+    <p class="highlight">
+        Prices are not displayed online.  
+        Please contact us directly to place an order.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Ittehad RCC Pipe Factory. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
